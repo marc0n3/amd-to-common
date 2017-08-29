@@ -13,7 +13,7 @@
   "author": "Will Demaine",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "esprima": "^2.5.0",
+    "esprima": "^4.0.0",
     "escodegen": "~1.4.1",
     "underscore": "~1.7.0",
     "minimist": "~1.1.0",
