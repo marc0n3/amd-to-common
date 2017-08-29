@@ -19,7 +19,7 @@ var AMDToCommon = (function(){
   var _convert = function(options){
     options = options || {};
     this.files = options.files;
-    this.parseOptions = { range: true, comment: true };
+    this.parseOptions = { range: true, comment: true,jsx:true };
   };
 
   /**
